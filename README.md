@@ -4,7 +4,7 @@
 Hey there! My name is Kayky. I'm a 21-year-old and currently reside in São Paulo, Brasil. I'm working as a Front-end Developer.
 - 🌱 I’m currently learning NextJs and Typescript
 - 🔭 I’m currently working on a CRM dashboard with Laravel and Filament
-- 👨‍💻 I also developed a simple game
+- 👨‍💻 I also developed a game
 
 ## My Skills 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
