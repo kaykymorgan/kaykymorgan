@@ -3,7 +3,6 @@
 ## About Me :wave:
 Hey there! My name is Kayky. I'm a 21-year-old and currently reside in São Paulo, Brasil. I'm working as a Front-end Developer.
 - 🌱 I’m currently learning NextJs and Typescript
-- 🔭 I’m currently working on a CRM dashboard with Laravel and Filament
 - 👨‍💻 I also developed a game
 
 ## My Skills 
